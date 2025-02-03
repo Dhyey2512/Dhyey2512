@@ -18,23 +18,24 @@ I'm a dedicated Master's passout in Electrical and Computer Engineering at the U
 ## 💼 Professional Skills
 
 - **Programming**: Python, MATLAB
-- **Data Analysis & Machine Learning**: Pandas, TensorFlow
+- **Data Analysis & Machine Learning**: Pandas, TensorFlow, SQL
 - **Expertise**: Machine Learning, Deep Learning, Data Analytics, Solution Engineering
 
 ---
 
 ### 📂 Featured Projects
 
-I am passionate about leveraging AI to build impactful solutions. My GitHub includes projects on:
+I have tried to showcase some of the fields of AI and ML that I have explored so far. My GitHub includes projects on:
 - **Recommendation Systems**
 - **Natural Language Processing (NLP) Applications**
 - **Deep Learning Models for Image Analysis**
 
-Explore my repositories for detailed implementations and code samples.
+Please checkout my repositories for detailed implementations and code samples.
 
 ---
 
 ### 💬 Quote of the Day
+![Dhyey quote of day](https://github-readme-stats.vercel.app/api?username=Sarvesh1814&show_icons=true&theme=radical)
 <!--START_SECTION:quote-->
 > "The best way to predict the future is to invent it." – Alan Kay
 <!--END_SECTION:quote-->
