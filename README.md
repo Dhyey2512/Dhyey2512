@@ -8,9 +8,9 @@ I'm a dedicated Master's passout in Electrical and Computer Engineering at the U
 
 ## 🎓 Education
 
-- **Master of Engineering (M.Eng)** in Electrical and Computer Engineering (Specialization: Artificial Intelligence and Machine Learning),
+- **Master of Engineering (M.Eng)** in Electrical and Computer Engineering (Specialization: Artificial Intelligence and Machine Learning),\
   **University of Waterloo, Canada**
-- **Bachelor of Technology (B.Tech)** in Electronics and Communication Engineering,
+- **Bachelor of Technology (B.Tech)** in Electronics and Communication Engineering,\
   **Gujarat Technological University, India**
 
 ---
