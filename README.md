@@ -35,9 +35,9 @@ Please checkout my repositories for detailed implementations and code samples.
 ---
 
 ### 💬 Quote of the Day
-![Dhyey quote of day](https://github-readme-stats.vercel.app/api?username=Sarvesh1814&show_icons=true&theme=radical)
 <!--START_SECTION:quote-->
-> "The best way to predict the future is to invent it." – Alan Kay
+> “Before we work on artificial intelligence why don’t we do something about natural stupidity?”
+—Steve Polyak
 <!--END_SECTION:quote-->
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dhyey-patel-3a2a28218/).
