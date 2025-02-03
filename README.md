@@ -24,13 +24,6 @@ I'm a dedicated Master's passout in Electrical and Computer Engineering at the U
 
 ---
 
-## 🛠️ Skills
-<!--START_SECTION:skills-->
-- Jupyter- null- Python
-<!--END_SECTION:skills-->
-
----
-
 ## 💼 Professional Skills
 
 - **Programming**: Python, MATLAB
