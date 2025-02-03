@@ -15,16 +15,6 @@ I'm a dedicated Master's passout in Electrical and Computer Engineering at the U
 
 ---
 
-### 📊 GitHub Stats
-![Dhyey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhyey2512&show_icons=true&theme=radical)
-
----
-
-### 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey2512&layout=compact&theme=radical)
-
----
-
 ## 💼 Professional Skills
 
 - **Programming**: Python, MATLAB
